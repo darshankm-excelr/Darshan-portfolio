@@ -1,0 +1,6 @@
+dist/
+build/
+vite-project/dist/
+vite-project/build/
+backend/.env
+vite-project/.env
