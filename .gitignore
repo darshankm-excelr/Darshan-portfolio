@@ -1,6 +1,3 @@
-dist/
-build/
-vite-project/dist/
-vite-project/build/
-backend/.env
-vite-project/.env
+node_modules/
+config.env
+.env
